@@ -1,7 +1,7 @@
+# Operating-Systems
+The course delves into the various responsibilities of an operating system and the techniques it employs to offer a seamless user experience.
 
-
-
-A mini description for four smaller projects contributing to a larger project on persistence:
+Larger persistence project divided into 4 sub-projects:
 
 1. Listing files in a specified directory.
 2. Searching for files in a designated or current directory.
